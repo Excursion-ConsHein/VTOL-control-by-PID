@@ -5,7 +5,7 @@ Make a kind of VTOL fixed-wing UAV **model**.
 ![UAV_model](./images/controller_1.png "UAV_model")
 
 And use **one PID controller** to adjust the max cruising speed and **a cascaded PID controller** to maintain the stability of altitude.
-
+![PID_model](./images/controller_2.png "PID_model")
 
 The result is below.
 
