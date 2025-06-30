@@ -1,5 +1,7 @@
 # Control VTOL fixed-wing UAV via PID
-This work can be seen as my own initial practice of scientific research, so it has no much value, but a reference for relative research.
+This work can be seen as my own initial practice of scientific research, 
+
+so there is little real value in it, but a reference for relative research.
 
 &nbsp;
 &nbsp;
@@ -49,3 +51,9 @@ The result is below.
 **This is height stability curve**
 
 ![height_stability](./images/height_curve.jpg "height_stability")
+
+However, this experiment is under quite ideal conditions.
+
+Due to objective constraints, such as motor speed thresholds, positional distribution of paddles and fixed wings, etc., 
+
+it is necessary to find more appropriate control policies, such as Model Predictive Control (MPC), Reinforcement Learning (RL), etc.
