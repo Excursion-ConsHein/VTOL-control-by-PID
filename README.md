@@ -1,7 +1,7 @@
 # Control VTOL fixed-wing UAV via PID
 This work can be seen as my own initial practice of scientific research, 
 
-so there is little real value in it, but a reference for relative research.
+so there is little real value in it, just a reference for other relative but more complicated work.
 
 &nbsp;
 &nbsp;
