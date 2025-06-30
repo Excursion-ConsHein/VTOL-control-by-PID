@@ -8,7 +8,7 @@ so there is little real value in it, just a reference for other relative but mor
 &nbsp;
 &nbsp;
 
-The target in this task is to **adjust cruising speed** and **maintain the stability of height** in the transition flight stage.
+The target in this task is to **adjust cruise speed** and **maintain the stability of height** in the transition flight stage.
 
 Then start to analyse motion of this UAV, 
 
@@ -39,14 +39,14 @@ Then according above, make a kind of VTOL fixed-wing UAV **model** ↓ (This UAV
 
 ![UAV_model](./images/controller_1.png "UAV_model")
 
-And use **one PID controller** to adjust the max cruising speed and **a cascaded PID controller** to maintain the stability of altitude.
+And use **one PID controller** to adjust the max cruise speed and **a cascaded PID controller** to maintain the stability of altitude.
 ![PID_model](./images/controller_2.png "PID_model")
 
 The result is below.
 
-**This is cruising speed curve**
+**This is cruise speed curve**
 
-![cruising_speed](./images/speed_curve.jpg "cruising speed")
+![cruise_speed](./images/speed_curve.jpg "cruise speed")
 
 **This is height stability curve**
 
