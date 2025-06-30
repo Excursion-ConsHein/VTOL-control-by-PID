@@ -31,7 +31,7 @@ $f = 0.5{C_d}{\rho}S{v_t}^2$
 
 **The translational motion** can be shown as:
 
-$m dot{v_t} = T_t - f - mgsin{\theta}$
+$m{\dot{v_t}} = T_t - f - mgsin{\theta}$
 
 Then according above, make a kind of VTOL fixed-wing UAV **model** ↓ (This UAV is 2kg).
 
