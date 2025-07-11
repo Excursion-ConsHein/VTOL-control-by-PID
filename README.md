@@ -1,4 +1,7 @@
 # Control VTOL fixed-wing UAV via PID
+
+Original Paper site: https://dx.doi.org/10.54254/2755-2721/9/20230018
+
 This work can be seen as my own initial practice of scientific research, 
 
 so there is little real value in it, just a reference for other relative but more complicated work.
